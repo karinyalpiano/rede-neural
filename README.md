@@ -21,5 +21,5 @@ Após rodar `app.py`, abra no navegador:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/rede-neural-mnist.git
+git clone https://github.com/karinyalpiano/rede-neural
 cd rede-neural-mnist
